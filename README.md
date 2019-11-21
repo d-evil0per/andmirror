@@ -24,8 +24,8 @@ Android Screen Mirroring Using Bash Script
 
 
 # Windows Setup For SCRCPY :
-      Please Download or clone the scrcpy from the github and follow the steps: https://github.com/Genymobile/scrcpy
-      For Windows, for simplicity, prebuilt archives with all the dependencies (including adb) are available:
+  Please Download or clone the scrcpy from the github and follow the steps: https://github.com/Genymobile/scrcpy
+  For Windows, for simplicity, prebuilt archives with all the dependencies (including adb) are available:
    * scrcpy-win32-v1.11.zip from https://github.com/Genymobile/scrcpy/releases/download/v1.11/scrcpy-win32-v1.11.zip
       * (SHA-256: f25ed46e6f3e81e0ff9b9b4df7fe1a4bbd13f8396b7391be0a488b64c675b41e)
    * scrcpy-win64-v1.11.zip from https://github.com/Genymobile/scrcpy/releases/download/v1.11/scrcpy-win64-v1.11.zip
