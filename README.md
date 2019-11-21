@@ -37,10 +37,10 @@ Android Screen Mirroring Using Bash Script
     2. double click on andmirror.bat
 
  
-# Linux Setup For SCRCPY
+# Ubuntu Setup For SCRCPY
     It will automatically install the package when you run andmirror.sh file   
 
- # Run (LINUX)
+ # Run (Ubuntu)
     1. cd {DOWNLOAD DIR}/andmirror/
     2. chmod +x 755 andmirror.sh
     3. ./andmirror.sh
