@@ -28,8 +28,7 @@ Android Screen Mirroring Using Bash Script
   ADB file download link for windows :  https://dl.google.com/android/repository/platform-tools-latest-windows.zip
  
 # Windows Setup For SCRCPY :
-    Please Download or clone the scrcpy from the github and follow the steps
- https://github.com/Genymobile/scrcpy
+ Please Download or clone the scrcpy from the github and follow the steps: https://github.com/Genymobile/scrcpy
 
 # Run (Windows)
     1. double click on andmirror.bat
