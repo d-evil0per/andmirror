@@ -20,10 +20,10 @@ Android Screen Mirroring Using Bash Script
  
  
  # Phone Setup:
- ![alt text](https://drive.google.com/file/d/1oJv0BHcNXAY_fXAbN8rvVWlg5rjrSs8N/view?usp=sharing)
+ ![alt text](https://drive.google.com/uc?id=1oJv0BHcNXAY_fXAbN8rvVWlg5rjrSs8N)
 
 # Windows Setup For ADB
-![alt text](https://drive.google.com/file/d/1HxbSVTbctGKvvjiFTn3nqTxX7jCp2fCK/view?usp=sharing)
+![alt text](https://drive.google.com/uc?id=1HxbSVTbctGKvvjiFTn3nqTxX7jCp2fCK)
 
   ADB file download link for windows :  https://dl.google.com/android/repository/platform-tools-latest-windows.zip
  
